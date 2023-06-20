@@ -1,0 +1,15 @@
+                      possible way to declare all syntax 
+    
+
+   1. public static int add=100;  true   * all syntax have in code
+
+   2. public int add=100;  true          * static is optional
+
+   3. int add=100;   true    * access modifier not compulsory but datatype and variablename is compulsory
+
+   4. add=100; false         * only varaiablename and value but datatype is not declare
+
+   5. int a ;
+      a= 100; true           * datatype oneline and variablename are value oneline declare
+
+   6. float =5.0; flase      *  because  variable name is not declare

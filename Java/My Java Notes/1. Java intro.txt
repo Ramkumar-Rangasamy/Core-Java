@@ -1,0 +1,50 @@
+Java 
+
+1. java is a programming language and a platform
+2. java is a high level object-oriented and secure programming language 
+3. java is developed by sun microsystem in year 1995  
+4. father of java is  james golsing 
+5. afther that changed the name from Okd and java 
+
+
+
+three type of  all techology
+
+1. syntax --> gammer 
+2. concept --->oops
+3. user defind classes (API)
+
+
+jdk java developement kit 
+jre java runtime environment
+
+ syntax
+
+1.class
+2.variables
+3.method 
+
+class
+
+access modifier ---> public ,private ,protected,defaut 
+
+
+class syntax
+
+access modifier class Class_Name{
+
+}
+
+* classname using  first letter capital and samll letter but sun microsystem given  requested  using only capital letter
+
+ access modifier class Class_Name{
+
+
+      BL--->business logic
+
+
+}
+
+
+
+
